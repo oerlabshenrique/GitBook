@@ -1,54 +1,56 @@
-# GitBook - Introduction
+# GitBook - Introdução
 
-You’re about to spend several hours of your life reading about Git. Let’s take a minute to explain what we have in store for you. Here is a quick summary of the ten chapters and three appendices of this book.
+Você está prestes a passar várias horas de sua vida lendo sobre o Git. Vamos dedicar um minuto para explicar o que temos reservado para você. Aqui está um rápido resumo dos dez capítulos e três apêndices deste livro.
 
-#### In Chapter 1
-we’re going to cover Version Control Systems (VCSs) and Git basics—no technical stuff, just what Git is, why it came about in a land full of
-VCSs, what sets it apart, and why so many people are using it. Then, we’ll explain how to download Git and set it up for the first time if you don’t already have it on your system.
+#### Capítulo 1
+Vamos cobrir os sistemas de controle de versão (VCSs) e o básico do Git - nada de técnico, apenas o que é o Git, por que surgiu em uma terra cheia de
+VCSs, o que os diferencia e por que tantas pessoas os estão usando. Em seguida, explicaremos como baixar o Git e configurá-lo pela primeira vez, caso ainda não o tenha em seu sistema.
 
-#### In Chapter 2 
-we will go over basic Git usage—how to use Git in the 80% of cases you’ll encounter most often. After reading this chapter, you should be able to clone a repository, see what has happened in the history of the project, modify files, and contribute changes. If the book spontaneously combusts at this point, you should already be pretty useful wielding Git in the time it takesyou to go pick up another copy.
 
-#### Chapter 3 
-is about the branching model in Git, often described as Git’s killer feature. Here you’ll learn what truly sets Git apart from the pack. When you’re done, you may feel the need to spend a quiet moment pondering how you lived before Git branching was part of your life.
+#### Capítulo 2 
+Veremos o uso básico do Git - como usar o Git nos 80% dos casos que você encontrará com mais frequência. Depois de ler este capítulo, você será capaz de clonar um repositório, ver o que aconteceu no histórico do projeto, modificar arquivos e contribuir com alterações. Se o livro entrar em combustão espontânea neste ponto, você já deve ser bastante útil empunhando o Git no tempo que leva para pegar outra cópia.
 
-#### Chapter 4 
-will cover Git on the server. This chapter is for those of you who want to set up Git inside your organization or on your own personal server for collaboration. We will also explore various hosted options if you prefer to let someone else handle that for you.
+#### Capítulo 3 
+É sobre o modelo de ramificação no Git, geralmente descrito como o recurso matador do Git. Aqui você aprenderá o que realmente diferencia o Git do pacote. Quando terminar, você pode sentir a necessidade de passar um momento tranquilo refletindo sobre como você vivia antes da ramificação do Git fazer parte de sua vida.
 
-#### Chapter 5 
-will go over in full detail various distributed workflows and how to
-accomplish them with Git. When you are done with this chapter, you should be
-able to work expertly with multiple remote repositories, use Git over email and
-deftly juggle numerous remote branches and contributed patches.
+#### Capítulo 4 
+Abordará o Git no servidor. Este capítulo é para aqueles que desejam configurar o Git dentro de sua organização ou em seu próprio servidor pessoal para colaboração. Também exploraremos várias opções hospedadas, se você preferir deixar que outra pessoa cuide disso para você.
 
-#### Chapter 6 
-covers the GitHub hosting service and tooling in depth. We cover
-signing up for and managing an account, creating and using Git repositories,
-common workflows to contribute to projects and to accept contributions to
-yours, GitHub’s programmatic interface and lots of little tips to make your life
-easier in general.
+#### Capítulo 5 
+Abordará em detalhes vários fluxos de trabalho distribuídos e como
+realizá-los com o Git. Ao terminar este capítulo, você deve estar
+capaz de trabalhar habilmente com vários repositórios remotos, usar o Git por e-mail e
+faça malabarismos habilmente com várias ramificações remotas e patches contribuídos.
 
-#### Chapter 7 
-is about advanced Git commands. Here you will learn about topics like mastering the scary reset command, using binary search to identify bugs, editing history, revision selection in detail, and a lot more. This chapter
-will round out your knowledge of Git so that you are truly a master.
+#### Capítulo 6 
+Abrange o serviço de hospedagem GitHub e ferramentas em profundidade. Nós cobrimos
+inscrever-se e gerenciar uma conta, criar e usar repositórios Git,
+fluxos de trabalho comuns para contribuir com projetos e aceitar contribuições para
+seu, a interface programática do GitHub e muitas pequenas dicas para tornar sua vida
+mais fácil em geral.
+
+#### Capítulo 7
+É sobre comandos Git avançados. Aqui você aprenderá sobre tópicos como dominar o comando de redefinição assustador, usar a pesquisa binária para identificar bugs, editar o histórico, selecionar a revisão em detalhes e muito mais. Este capítulo irá complementar seu conhecimento do Git para que você seja realmente um mestre.
 
 #### Chapter 8 
-is about configuring your custom Git environment. This includes
-setting up hook scripts to enforce or encourage customized policies and using
-environment configuration settings so you can work the way you want to. We
-will also cover building your own set of scripts to enforce a custom committing
-policy.
+Trata de configurar seu ambiente Git personalizado. Isso inclui
+configurar scripts de gancho para impor ou encorajar políticas personalizadas e usar
+definições de configuração do ambiente para que você possa trabalhar da maneira que desejar. Nós
+também cobrirá a criação de seu próprio conjunto de scripts para impor um commit personalizado
+política.
 
-#### Chapter 9 
-deals with Git and other VCSs. This includes using Git in a Subversion (SVN) world and converting projects from other VCSs to Git. A lot of organizations still use SVN and are not about to change, but by this point you’ll have learned the incredible power of Git—and this chapter shows you how to cope if you still have to use a SVN server. We also cover how to import projects from several different systems in case you do convince everyone to make the plunge.
+#### Capítulo 9 
+Lida com Git e outros VCSs. Isso inclui usar Git em um mundo Subversion (SVN) e converter projetos de outros VCSs para Git. Muitas organizações ainda usam SVN e não estão prestes a mudar, mas a essa altura você já terá aprendido o incrível poder do Git - e este capítulo mostra como lidar se você ainda tiver que usar um servidor SVN. Também abordamos como importar projetos de vários sistemas diferentes, caso você convença todos a mergulhar.
 
-#### Chapter 10 
-delves into the murky yet beautiful depths of Git internals. Now that you know all about Git and can wield it with power and grace, you can move on to discuss how Git stores its objects, what the object model is, details of packfiles, server protocols, and more. Throughout the book, we will refer to sections of this chapter in case you feel like diving deep at that point; but if you are like us and want to dive into the technical details, you may want to read Chapter 10 first. We leave that up to you.
+#### Capítulo 10 
+Investiga as profundezas obscuras e belas dos internos do Git. Agora que você sabe tudo sobre o Git e pode manipulá-lo com poder e graça, pode discutir como o Git armazena seus objetos, qual é o modelo de objeto, detalhes de packfiles, protocolos de servidor e muito mais. Ao longo do livro, faremos referência a seções deste capítulo, caso você queira mergulhar fundo nesse ponto; mas se você for como nós e quiser se aprofundar nos detalhes técnicos, talvez queira ler primeiro o Capítulo 10. Nós deixamos isso para você.
 
-#### In Appendix A we look at a number of examples of using Git in various specific environments. We cover a number of different GUIs and IDE programming environments that you may want to use Git in and what is available for you. If
-you’re interested in an overview of using Git in your shell, in Visual Studio or Eclipse, take a look here.
+#### Apêndice A 
+Veremos vários exemplos de uso do Git em vários ambientes específicos. Cobrimos várias GUIs e ambientes de programação IDE diferentes nos quais você pode querer usar o Git e o que está disponível para você. Se você estiver interessado em uma visão geral do uso do Git em seu shell, no Visual Studio ou no Eclipse, dê uma olhada aqui.
 
-#### In Appendix B we explore scripting and extending Git through tools like libgit2 and JGit. If you’re interested in writing complex and fast custom tools and need low level Git access, this is where you can see what that landscape looks like.
+#### Apêndice B 
+Exploramos a criação de scripts e a extensão do Git por meio de ferramentas como libgit2 e JGit. Se você estiver interessado em escrever ferramentas personalizadas complexas e rápidas e precisar de acesso Git de baixo nível, é aqui que você pode ver como é esse cenário.
 
-#### Finally in Appendix C we go through all the major Git commands one at a time and review where in the book we covered them and what we did with them. If you want to know where in the book we used any specific Git command you can look that up here.
-Let’s get started.
+#### Apêndice C 
+Passamos por todos os principais comandos do Git, um de cada vez, e revisamos onde no livro os abordamos e o que fizemos com eles. Se você quiser saber onde no livro usamos qualquer comando específico do Git, você pode procurar aqui.
+Vamos começar.
