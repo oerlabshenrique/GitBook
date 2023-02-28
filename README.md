@@ -2,10 +2,9 @@
 
 Você está prestes a passar várias horas de sua vida lendo sobre o Git. Vamos dedicar um minuto para explicar o que temos reservado para você. Aqui está um rápido resumo dos dez capítulos e três apêndices deste livro.
 
-#### Capítulo 1
+#### Capítulo 1 
 Vamos cobrir os sistemas de controle de versão (VCSs) e o básico do Git - nada de técnico, apenas o que é o Git, por que surgiu em uma terra cheia de
 VCSs, o que os diferencia e por que tantas pessoas os estão usando. Em seguida, explicaremos como baixar o Git e configurá-lo pela primeira vez, caso ainda não o tenha em seu sistema.
-
 
 #### Capítulo 2 
 Veremos o uso básico do Git - como usar o Git nos 80% dos casos que você encontrará com mais frequência. Depois de ler este capítulo, você será capaz de clonar um repositório, ver o que aconteceu no histórico do projeto, modificar arquivos e contribuir com alterações. Se o livro entrar em combustão espontânea neste ponto, você já deve ser bastante útil empunhando o Git no tempo que leva para pegar outra cópia.
