@@ -3,17 +3,20 @@
 You’re about to spend several hours of your life reading about Git. Let’s take a
 minute to explain what we have in store for you. Here is a quick summary of the
 ten chapters and three appendices of this book.
+
 In Chapter 1, we’re going to cover Version Control Systems (VCSs) and Git
 basics—no technical stuff, just what Git is, why it came about in a land full of
 VCSs, what sets it apart, and why so many people are using it. Then, we’ll explain
 how to download Git and set it up for the first time if you don’t already
 have it on your system.
+
 In Chapter 2, we will go over basic Git usage—how to use Git in the 80% of
 cases you’ll encounter most often. After reading this chapter, you should be
 able to clone a repository, see what has happened in the history of the project,
 modify files, and contribute changes. If the book spontaneously combusts at
 this point, you should already be pretty useful wielding Git in the time it takes
 you to go pick up another copy.
+
 Chapter 3 is about the branching model in Git, often described as Git’s killer
 feature. Here you’ll learn what truly sets Git apart from the pack. When you’re
 done, you may feel the need to spend a quiet moment pondering how you lived
